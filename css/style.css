@@ -41288,7 +41288,7 @@ img.alignright {
 .dropdown-toggle::after {
     display:none;
 }
-.categori-namer{
+.categori-namer {
     font-size: 15px !important;
     font-weight: bold!important;
     
@@ -41299,3 +41299,22 @@ img.alignright {
 .categorier{
     min-height: 50px !important;
 }
+.block-deals-of-opt2 {
+    padding: 0px !important;
+}
+.block-title{
+    padding: 0px !important;
+}
+.jCarouselMainWrapper .slick-next {
+    right: 35px !important;
+  }
+  .jCarouselMainWrapper .slick-prev {
+    right: 0px !important;
+  }
+  
+  .jCarouselMainWrapper.small-products .slick-prev {
+    left: -20px !important;
+  }
+  .jCarouselMainWrapper.small-products .slick-next {
+    right: -20px !important;
+  }
